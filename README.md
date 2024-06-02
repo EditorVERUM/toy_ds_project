@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date:2024-06-01
+project creation date: 2024-06-01
 author: Richard Yang
